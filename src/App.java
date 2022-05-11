@@ -22,6 +22,6 @@ public class App {
     public static void main(String args[]) {
         int[][] PL1 = { { 1, 2 }, { 3, 4 }, { 5, 9 } };
         double length = Perim(PL1);
-        System.out.println("perimeter = " + length);
+        System.out.println("total perimeter = " + length);
     }
 }
